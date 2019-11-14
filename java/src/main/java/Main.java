@@ -1,4 +1,5 @@
 import solution.array.MaxProfit;
+import solution.array.RotateArray;
 
 /**
  * @author theond
@@ -8,8 +9,7 @@ import solution.array.MaxProfit;
 
 public class Main {
     public static void main(String[] args){
-        int[] array = new int[]{1,2,3,4,5};
-        int a =MaxProfit.maxProfit(array);
-        System.out.println(a);
+        int[] array = new int[]{1,2,3,4,5,6,7};
+        RotateArray.rotate(array,3);
     }
 }
