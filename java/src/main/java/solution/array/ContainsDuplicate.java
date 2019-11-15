@@ -11,6 +11,8 @@ import java.util.HashSet;
  **/
 
 public class ContainsDuplicate {
+
+    //暴力遍历
     public static boolean isDuplicate(int[] nums){
         for(int i = 0; i < nums.length; i++){
             for(int j = i+1; j < nums.length; j++){

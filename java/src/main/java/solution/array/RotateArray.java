@@ -7,6 +7,8 @@ package solution.array;
  **/
 
 public class RotateArray {
+
+    //暴力遍历
     public static void rotate(int[] nums, int k){
         if(k >= nums.length){
             k = k % nums.length;
