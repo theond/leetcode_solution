@@ -1,11 +1,12 @@
 {
   "ExpandedNodes": [
     "",
-    "\\cpp",
-    "\\cpp\\cpp",
-    "\\cpp\\cpp\\base_struct",
-    "\\cpp\\cpp\\solution",
-    "\\cpp\\cpp\\solution\\array"
+    "\\cc",
+    "\\cc\\cpp",
+    "\\cc\\cpp\\base_struct",
+    "\\cc\\cpp\\solution",
+    "\\cc\\cpp\\solution\\array"
   ],
+  "SelectedNode": "\\cc\\cpp\\base_struct\\base_array.cpp",
   "PreviewInSolutionExplorer": false
 }
