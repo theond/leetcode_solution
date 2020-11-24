@@ -24,5 +24,17 @@ public class LinkedList {
     //迭代
     public LinkedList iteReverse(LinkedList head){
 
+        LinkedList pre = null;
+        for(;head != null && head.next != null;){
+            LinkedList nextNode = head.next;
+            head.next = pre;
+            pre = head;
+            head = nextNode;
+        }
+        return head;
+    }
+
+    public static void main(String[] args) {
+
     }
 }
