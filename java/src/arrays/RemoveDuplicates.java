@@ -1,4 +1,4 @@
-package solveproblem;
+package arrays;
 
 public class RemoveDuplicates {
     /*

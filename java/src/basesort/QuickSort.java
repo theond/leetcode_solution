@@ -29,7 +29,6 @@ public class QuickSort {
                 low++;
             }
         }
-
         swap(nums, more, high);
         //返回与基准值相等的上下边界
         return new int[]{less + 1, more};
