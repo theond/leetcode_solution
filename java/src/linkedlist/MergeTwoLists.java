@@ -25,31 +25,6 @@ public class MergeTwoLists {
         if(l2 == null && l1 != null){
             return l1;
         }
-        /**
-        ListNode h1 = new ListNode();
-        ListNode h2 = new ListNode();
-        h1.next = l1;
-        h2.next = l2;
-        while(h1.next!= null && h2.next != null){
-
-            if(h1.next.val <= h2.next.val){
-                if(h1.next.next == null){
-                    h1.next.next = h2;
-                    break;
-                }
-                h1 = h1.next;
-            }else{
-                ListNode t1 = h1;
-                ListNode t2 = h2;
-
-                h1.next = h2.next;
-
-                h2 = h2.next;
-            }
-        }
-
-        return l1;
-         **/
         ListNode resultList = new ListNode();
         ListNode header = resultList;
 //        header = resultList;
