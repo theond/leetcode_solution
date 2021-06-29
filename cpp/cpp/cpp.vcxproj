@@ -18,6 +18,12 @@
       <Platform>x64</Platform>
     </ProjectConfiguration>
   </ItemGroup>
+  <ItemGroup>
+    <ClCompile Include="base_sort\BubbleSort.cpp" />
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="base_sort\BubbleSort.h" />
+  </ItemGroup>
   <PropertyGroup Label="Globals">
     <VCProjectVersion>16.0</VCProjectVersion>
     <ProjectGuid>{785E8924-5B78-493C-86AC-11B0FA66273E}</ProjectGuid>
