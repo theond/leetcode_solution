@@ -24,6 +24,9 @@
     <ClCompile Include="base_sort\SelectionSort.cpp">
       <Filter>源文件</Filter>
     </ClCompile>
+    <ClCompile Include="base_sort\MergeSort.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="base_sort\BubbleSort.h">
@@ -33,6 +36,9 @@
       <Filter>头文件</Filter>
     </ClInclude>
     <ClInclude Include="base_sort\SelectionSort.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="base_sort\MergeSort.h">
       <Filter>头文件</Filter>
     </ClInclude>
   </ItemGroup>
