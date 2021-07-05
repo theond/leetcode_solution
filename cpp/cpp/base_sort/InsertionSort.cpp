@@ -29,9 +29,9 @@ void InsertionSort::swap(int& a, int& b) {
 */
 
 
-void main() {
-	InsertionSort sort;
-	int input[7] = { 10, 21, 9, 7, 1, 42, 37 };
-	int length = sizeof(input) / sizeof(input[0]);
-	sort.insertionSort(input, length);
-}
+//void main() {
+//	InsertionSort sort;
+//	int input[7] = { 10, 21, 9, 7, 1, 42, 37 };
+//	int length = sizeof(input) / sizeof(input[0]);
+//	sort.insertionSort(input, length);
+//}
