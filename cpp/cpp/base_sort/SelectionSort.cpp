@@ -26,9 +26,11 @@ void SelectionSort::swap(int& a, int& b) {
 	b = temp;
 }
 
+/*
 void main() {
 	SelectionSort sort;
 	int input[7] = { 10, 21, 9, 7, 1, 42, 37 };
 	int length = sizeof(input) / sizeof(input[0]);
 	sort.selectionSort(input, length);
 }
+*/
