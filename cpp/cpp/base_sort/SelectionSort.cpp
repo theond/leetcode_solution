@@ -5,18 +5,18 @@ using namespace std;
 
 SelectionSort::SelectionSort(){}
 
-void SelectionSort::selectionSort(int input[], int length) {
+void SelectionSort::selectionSort(int nums[], int length) {
 	for (int i = 0; i < length - 1; i++) {
 		int minIndex = i;
 		for (int j = i+1; j < length; j++) {
-			if (input[minIndex] > input[j]) {
+			if (nums[minIndex] > nums[j]) {
 				minIndex = j;
 			}
 		}
-		swap(input[minIndex], input[i]);
+		swap(nums[minIndex], nums[i]);
 	}
 	for (int a = 0; a < length; a++) {
-		cout << input[a] << endl;
+		cout << nums[a] << endl;
 	}
 }
 
