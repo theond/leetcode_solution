@@ -5,18 +5,18 @@ using namespace std;
 
 InsertionSort::InsertionSort(){}
 
-void InsertionSort::insertionSort(int input[], int length) {
+void InsertionSort::insertionSort(int nums[], int length) {
 	for (int i = 1, j; i < length - 1; i++) {
-		int temp = input[i];
-		for (j = i - 1; j >= 0 && input[j] > temp; j--) {
-			input[j + 1] = input[j];
+		int temp = nums[i];
+		for (j = i - 1; j >= 0 && nums[j] > temp; j--) {
+			nums[j + 1] = nums[j];
 		}
 
-		input[j+1] = temp;
+		nums[j+1] = temp;
 	}
 
 	for (int a = 0; a < length; a++) {
-		cout << input[a] << endl;
+		cout << nums[a] << endl;
 	}
 }
 

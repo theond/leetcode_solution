@@ -3,10 +3,10 @@
 #define MERGESORT
 class MergeSort {
 private:
-	void mergeSub(int input[], int left, int right);
+	void mergeSub(int nums[], int left, int right);
 public:
 	MergeSort();
-	void mergeSort(int input[], const int length);
+	void mergeSort(int nums[], const int length);
 };
 #endif // !MERGESORT
 

@@ -43,9 +43,11 @@ void QuickSort::partion(int input[], int low, int high) {
 	partion(input, more+1, high);
 }
 
+/*
 void main() {
 	QuickSort sort;
 	int input[7] = { 10, 21, 9, 7, 1, 42, 37 };
 	int length = sizeof(input) / sizeof(input[0]);
 	sort.quickSort(input, length);
 }
+*/

@@ -7,6 +7,6 @@ private:
 	void swap(int& a, int& b);
 public:
 	SelectionSort();
-	void selectionSort(int input[], int length);
+	void selectionSort(int nums[], int length);
 };
 #endif // !SELECTIONSORT

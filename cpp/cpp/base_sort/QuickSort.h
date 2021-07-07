@@ -3,10 +3,10 @@
 #define QUICKSORT
 class QuickSort {
 private:
-	void partion(int input[], int low, int high);
+	void partion(int nums[], int low, int high);
 	void swap(int& a, int& b);
 public:
 	QuickSort();
-	void quickSort(int input[], int length);
+	void quickSort(int nums[], int length);
 };
 #endif // !QUICKSORT

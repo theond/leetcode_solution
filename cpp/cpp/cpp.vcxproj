@@ -24,6 +24,7 @@
     <ClCompile Include="base_sort\MergeSort.cpp" />
     <ClCompile Include="base_sort\QuickSort.cpp" />
     <ClCompile Include="base_sort\SelectionSort.cpp" />
+    <ClCompile Include="base_sort\ShellSort.cpp" />
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="base_sort\BubbleSort.h" />
@@ -31,6 +32,7 @@
     <ClInclude Include="base_sort\MergeSort.h" />
     <ClInclude Include="base_sort\QuickSort.h" />
     <ClInclude Include="base_sort\SelectionSort.h" />
+    <ClInclude Include="base_sort\ShellSort.h" />
   </ItemGroup>
   <PropertyGroup Label="Globals">
     <VCProjectVersion>16.0</VCProjectVersion>
