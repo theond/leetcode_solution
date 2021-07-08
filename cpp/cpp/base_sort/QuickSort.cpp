@@ -4,11 +4,11 @@ using namespace std;
 
 QuickSort::QuickSort() {};
 
-void QuickSort::quickSort(int input[], int length) {
-	partion(input, 0, length - 1);
+void QuickSort::quickSort(int nums[], int length) {
+	partion(nums, 0, length - 1);
 
 	for (int i = 0; i < length; i++) {
-		cout << input[i] << endl;
+		cout << nums[i] << endl;
 	}
 }
 
@@ -21,26 +21,26 @@ void QuickSort::swap(int& a, int& b) {
 	b = temp;
 }
 
-void QuickSort::partion(int input[], int low, int high) {
+void QuickSort::partion(int nums[], int low, int high) {
 	if (low >= high)
 		return;
 
 	int less = low - 1, mid = low, more = high;
 	while (mid < more) {
-		if (input[mid] < input[high]) {
-			swap(input[++less], input[mid++]);
+		if (nums[mid] < nums[high]) {
+			swap(nums[++less], nums[mid++]);
 		}
-		else if (input[mid] > input[high]) {
-			swap(input[mid], input[--more]);
+		else if (nums[mid] > nums[high]) {
+			swap(nums[mid], nums[--more]);
 		}
 		else {
 			mid++;
 		}
 	}
 
-	swap(input[more], input[high]);
-	partion(input, low, less);
-	partion(input, more+1, high);
+	swap(nums[more], nums[high]);
+	partion(nums, low, less);
+	partion(nums, more+1, high);
 }
 
 /*

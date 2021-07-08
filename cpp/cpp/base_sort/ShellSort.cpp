@@ -18,10 +18,11 @@ void ShellSort::shellSort(int nums[], int length) {
 		cout << nums[a] << endl;
 	}
 }
-
+/*
 void main() {
 	ShellSort sort;
 	int input[7] = { 10, 21, 9, 7, 1, 42, 37 };
 	int length = sizeof(input) / sizeof(input[0]);
 	sort.shellSort(input, length);
 }
+*/
