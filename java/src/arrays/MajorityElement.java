@@ -14,4 +14,18 @@ public class MajorityElement {
         }
         return -1;
     }
+
+    // Boyer–Moore vote 算法，适用于超过半数的众数
+    public int majority2(int[] nums) {
+        int majority = 0, count = 0;
+        for(int i = 0; i < nums.length; i++){
+            if(count == 0){
+                majority = nums[i];
+                count++;
+            }else{
+                count +=(majority == nums[i] ? 1 : -1);
+            }
+        }
+        return majority;
+    }
 }

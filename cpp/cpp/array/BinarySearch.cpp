@@ -22,6 +22,7 @@ int BinarySearch::binarySearch(int nums[], int tar, int length) {
 	return -1;
 }
 
+/*
 void main() {
 	BinarySearch search;
 	int input[7] = { 1,7,9,10,21,37,42};
@@ -30,3 +31,4 @@ void main() {
 	int result = search.binarySearch(input, 6, length);
 	cout << result << endl;
 }
+*/
