@@ -39,6 +39,9 @@
     <ClCompile Include="array\MajorityElement.cpp">
       <Filter>源文件</Filter>
     </ClCompile>
+    <ClCompile Include="array\RemoveDuplicates.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="base_sort\BubbleSort.h">
@@ -63,6 +66,9 @@
       <Filter>头文件</Filter>
     </ClInclude>
     <ClInclude Include="array\MajorityElement.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="array\RemoveDuplicates.h">
       <Filter>头文件</Filter>
     </ClInclude>
   </ItemGroup>

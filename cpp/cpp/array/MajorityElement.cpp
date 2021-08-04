@@ -46,6 +46,7 @@ int MajorityElement::majority2(int nums[], int length) {
 	return majority;
 }
 
+/*
 int main() {
 	MajorityElement majority;
 	int input[7] = { 1,1,9,3,3,3,3 };
@@ -55,3 +56,4 @@ int main() {
 	cout << result << endl;
 	return 0;
 }
+*/
