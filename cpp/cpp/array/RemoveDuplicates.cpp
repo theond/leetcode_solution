@@ -23,6 +23,7 @@ int RemoveDuplicates::removeDuplicates(int nums[], int length) {
 	}
 	return length - count;
 }
+/*
 int main() {
 	RemoveDuplicates remove;
 	int nums[3] = { 1,1,2 };
@@ -30,3 +31,4 @@ int main() {
 	int result = remove.removeDuplicates(nums, length);
 	cout << result << endl;
 }
+*/

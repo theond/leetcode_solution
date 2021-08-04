@@ -22,6 +22,7 @@
     <ClCompile Include="array\BinarySearch.cpp" />
     <ClCompile Include="array\MajorityElement.cpp" />
     <ClCompile Include="array\RemoveDuplicates.cpp" />
+    <ClCompile Include="array\RemoveDuplicates2.cpp" />
     <ClCompile Include="base_sort\BubbleSort.cpp" />
     <ClCompile Include="base_sort\InsertionSort.cpp" />
     <ClCompile Include="base_sort\MergeSort.cpp" />
@@ -33,6 +34,7 @@
     <ClInclude Include="array\BinarySearch.h" />
     <ClInclude Include="array\MajorityElement.h" />
     <ClInclude Include="array\RemoveDuplicates.h" />
+    <ClInclude Include="array\RemoveDuplicates2.h" />
     <ClInclude Include="base_sort\BubbleSort.h" />
     <ClInclude Include="base_sort\InsertionSort.h" />
     <ClInclude Include="base_sort\MergeSort.h" />
