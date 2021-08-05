@@ -29,7 +29,7 @@ int RemoveDuplicates2::removeDuplicates(int nums[], int length) {
 
 	return curr;
 }
-
+/*
 int main() {
 	RemoveDuplicates2 remove;
 	int nums[9] = { 0,0,1,1,1,1,2,3,3};
@@ -37,3 +37,4 @@ int main() {
 	int result = remove.removeDuplicates(nums, length);
 	cout << result << endl;
 }
+*/
