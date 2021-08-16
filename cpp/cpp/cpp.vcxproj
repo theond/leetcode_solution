@@ -21,6 +21,7 @@
   <ItemGroup>
     <ClCompile Include="array\BinarySearch.cpp" />
     <ClCompile Include="array\MajorityElement.cpp" />
+    <ClCompile Include="array\MoveZeros.cpp" />
     <ClCompile Include="array\RemoveDuplicates.cpp" />
     <ClCompile Include="array\RemoveDuplicates2.cpp" />
     <ClCompile Include="array\RemoveElement.cpp" />
@@ -34,6 +35,7 @@
   <ItemGroup>
     <ClInclude Include="array\BinarySearch.h" />
     <ClInclude Include="array\MajorityElement.h" />
+    <ClInclude Include="array\MoveZeros.h" />
     <ClInclude Include="array\RemoveDuplicates.h" />
     <ClInclude Include="array\RemoveDuplicates2.h" />
     <ClInclude Include="array\RemoveElement.h" />

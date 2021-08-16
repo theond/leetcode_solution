@@ -48,6 +48,9 @@
     <ClCompile Include="array\RemoveElement.cpp">
       <Filter>源文件</Filter>
     </ClCompile>
+    <ClCompile Include="array\MoveZeros.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="base_sort\BubbleSort.h">
@@ -81,6 +84,9 @@
       <Filter>头文件</Filter>
     </ClInclude>
     <ClInclude Include="array\RemoveElement.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="array\MoveZeros.h">
       <Filter>头文件</Filter>
     </ClInclude>
   </ItemGroup>

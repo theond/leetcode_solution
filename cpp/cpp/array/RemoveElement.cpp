@@ -20,6 +20,7 @@ int RemoveElement::removeElement(int nums[], int val, int length) {
 	return currIndex;
 }
 
+/*
 int main() {
 	RemoveElement remove;
 	int nums[8] = { 0,1,2,2,3,0,4,2 };
@@ -27,3 +28,4 @@ int main() {
 	int result = remove.removeElement(nums, 2,length);
 	cout << result << endl;
 }
+*/
