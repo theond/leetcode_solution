@@ -27,9 +27,11 @@ void MoveZeros::moveZeros(int nums[], int length) {
 	}
 }
 
+/*
 int main() {
 	MoveZeros moveZeros;
 	int nums[5] = { 0,1,0,3,12 };
 	int length = sizeof(nums) / sizeof(nums[0]);
 	moveZeros.moveZeros(nums, length);
 }
+*/
