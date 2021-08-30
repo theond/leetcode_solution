@@ -27,6 +27,7 @@
     <ClCompile Include="array\RemoveElement.cpp" />
     <ClCompile Include="array\RepeatNumber.cpp" />
     <ClCompile Include="array\Rotate.cpp" />
+    <ClCompile Include="array\SpiralOrder.cpp" />
     <ClCompile Include="base_sort\BubbleSort.cpp" />
     <ClCompile Include="base_sort\InsertionSort.cpp" />
     <ClCompile Include="base_sort\MergeSort.cpp" />
@@ -43,6 +44,7 @@
     <ClInclude Include="array\RemoveElement.h" />
     <ClInclude Include="array\RepeatNumber.h" />
     <ClInclude Include="array\Rotate.h" />
+    <ClInclude Include="array\SpiralOrder.h" />
     <ClInclude Include="base_sort\BubbleSort.h" />
     <ClInclude Include="base_sort\InsertionSort.h" />
     <ClInclude Include="base_sort\MergeSort.h" />
