@@ -60,6 +60,9 @@
     <ClCompile Include="array\SpiralOrder.cpp">
       <Filter>源文件</Filter>
     </ClCompile>
+    <ClCompile Include="array\TwoSum.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="base_sort\BubbleSort.h">
@@ -105,6 +108,9 @@
       <Filter>头文件</Filter>
     </ClInclude>
     <ClInclude Include="array\SpiralOrder.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="array\TwoSum.h">
       <Filter>头文件</Filter>
     </ClInclude>
   </ItemGroup>
