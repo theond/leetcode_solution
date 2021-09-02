@@ -31,6 +31,7 @@ void QuickSort::partion(int nums[], int low, int high) {
 			swap(nums[++less], nums[mid++]);
 		}
 		else if (nums[mid] > nums[high]) {
+			//这一步确保了当mid=more时，nums[mid] > nums[high]
 			swap(nums[mid], nums[--more]);
 		}
 		else {

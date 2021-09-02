@@ -26,7 +26,7 @@ void TwoSum::twoSum(int nums[], int length, int target) {
 //
 //	int le = low - 1, mid = low, ri = high;
 //	int stand = nums[ri];
-//	while (mid < ri) {
+//	while (mid <= ri) {
 //		if (nums[mid] > stand) {
 //			int temp = nums[ri];
 //			nums[ri] = nums[mid];
@@ -49,12 +49,12 @@ void TwoSum::twoSum(int nums[], int length, int target) {
 //	quickSort(nums, mid, high);
 //}
 
-int main() {
-	TwoSum twoSum;
-	int nums[3] = {3,2,4};
-	int length = sizeof(nums) / sizeof(nums[0]);
-	twoSum.twoSum(nums, length, 6);
-	for (int i = 0; i < length; i++) {
-		cout << nums[i] << endl;
-	}
-}
+//int main() {
+//	TwoSum twoSum;
+//	int nums[3] = {3,2,4};
+//	int length = sizeof(nums) / sizeof(nums[0]);
+//	twoSum.twoSum(nums, length, 6);
+//	for (int i = 0; i < length; i++) {
+//		cout << nums[i] << endl;
+//	}
+//}
