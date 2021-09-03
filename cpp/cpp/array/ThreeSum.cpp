@@ -78,13 +78,13 @@ void ThreeSum::quickSort(int nums[], int low, int high) {
 
 }
 
-int main() {
-	ThreeSum threeSum;
-	int nums[6] = { 3,0,-2,-1,1,2 };
-	int length = sizeof(nums) / sizeof(nums[0]);
-	//threeSum.quickSort(nums, 0, length-1);
-	threeSum.threeSum(nums, length);
-	for (int i = 0; i < length; i++) {
-		cout << nums[i] << endl;
-	}
-}
+//int main() {
+//	ThreeSum threeSum;
+//	int nums[6] = { 3,0,-2,-1,1,2 };
+//	int length = sizeof(nums) / sizeof(nums[0]);
+//	//threeSum.quickSort(nums, 0, length-1);
+//	threeSum.threeSum(nums, length);
+//	for (int i = 0; i < length; i++) {
+//		cout << nums[i] << endl;
+//	}
+//}

@@ -20,6 +20,7 @@
   </ItemGroup>
   <ItemGroup>
     <ClCompile Include="array\BinarySearch.cpp" />
+    <ClCompile Include="array\FourSum.cpp" />
     <ClCompile Include="array\MajorityElement.cpp" />
     <ClCompile Include="array\MoveZeros.cpp" />
     <ClCompile Include="array\RemoveDuplicates.cpp" />
@@ -39,6 +40,7 @@
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="array\BinarySearch.h" />
+    <ClInclude Include="array\FourSum.h" />
     <ClInclude Include="array\MajorityElement.h" />
     <ClInclude Include="array\MoveZeros.h" />
     <ClInclude Include="array\RemoveDuplicates.h" />
