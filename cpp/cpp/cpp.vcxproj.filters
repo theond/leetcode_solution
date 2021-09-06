@@ -69,6 +69,9 @@
     <ClCompile Include="array\FourSum.cpp">
       <Filter>源文件</Filter>
     </ClCompile>
+    <ClCompile Include="array\ThreeSumSmaller.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="base_sort\BubbleSort.h">
@@ -123,6 +126,9 @@
       <Filter>头文件</Filter>
     </ClInclude>
     <ClInclude Include="array\FourSum.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="array\ThreeSumSmaller.h">
       <Filter>头文件</Filter>
     </ClInclude>
   </ItemGroup>

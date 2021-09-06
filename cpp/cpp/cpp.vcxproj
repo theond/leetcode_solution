@@ -30,6 +30,7 @@
     <ClCompile Include="array\Rotate.cpp" />
     <ClCompile Include="array\SpiralOrder.cpp" />
     <ClCompile Include="array\ThreeSum.cpp" />
+    <ClCompile Include="array\ThreeSumSmaller.cpp" />
     <ClCompile Include="array\TwoSum.cpp" />
     <ClCompile Include="base_sort\BubbleSort.cpp" />
     <ClCompile Include="base_sort\InsertionSort.cpp" />
@@ -50,6 +51,7 @@
     <ClInclude Include="array\Rotate.h" />
     <ClInclude Include="array\SpiralOrder.h" />
     <ClInclude Include="array\ThreeSum.h" />
+    <ClInclude Include="array\ThreeSumSmaller.h" />
     <ClInclude Include="array\TwoSum.h" />
     <ClInclude Include="base_sort\BubbleSort.h" />
     <ClInclude Include="base_sort\InsertionSort.h" />
