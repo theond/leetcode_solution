@@ -25,11 +25,11 @@ int ThreeSumSmaller::threeSumSmaller(int nums[], int length, int target) {
 	}
 	return count;
 }
-
-int main() {
-	ThreeSumSmaller three;
-	int nums[4] = { -2,0,1,3 };
-	int length = sizeof(nums) / sizeof(nums[0]);
-	int a = three.threeSumSmaller(nums, length, 2);
-	cout << a << endl;
-}
+//
+//int main() {
+//	ThreeSumSmaller three;
+//	int nums[4] = { -2,0,1,3 };
+//	int length = sizeof(nums) / sizeof(nums[0]);
+//	int a = three.threeSumSmaller(nums, length, 2);
+//	cout << a << endl;
+//}
