@@ -22,6 +22,7 @@
     <ClCompile Include="array\BinarySearch.cpp" />
     <ClCompile Include="array\FourSum.cpp" />
     <ClCompile Include="array\MajorityElement.cpp" />
+    <ClCompile Include="array\Merge.cpp" />
     <ClCompile Include="array\MoveZeros.cpp" />
     <ClCompile Include="array\RemoveDuplicates.cpp" />
     <ClCompile Include="array\RemoveDuplicates2.cpp" />
@@ -44,6 +45,7 @@
     <ClInclude Include="array\BinarySearch.h" />
     <ClInclude Include="array\FourSum.h" />
     <ClInclude Include="array\MajorityElement.h" />
+    <ClInclude Include="array\Merge.h" />
     <ClInclude Include="array\MoveZeros.h" />
     <ClInclude Include="array\RemoveDuplicates.h" />
     <ClInclude Include="array\RemoveDuplicates2.h" />

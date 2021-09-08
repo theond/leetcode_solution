@@ -75,6 +75,9 @@
     <ClCompile Include="array\ThreeSumClkosest.cpp">
       <Filter>源文件</Filter>
     </ClCompile>
+    <ClCompile Include="array\Merge.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="base_sort\BubbleSort.h">
@@ -135,6 +138,9 @@
       <Filter>头文件</Filter>
     </ClInclude>
     <ClInclude Include="array\ThreeSumClkosest.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="array\Merge.h">
       <Filter>头文件</Filter>
     </ClInclude>
   </ItemGroup>
