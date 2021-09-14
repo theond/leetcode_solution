@@ -20,6 +20,8 @@
   </ItemGroup>
   <ItemGroup>
     <ClCompile Include="array\BinarySearch.cpp" />
+    <ClCompile Include="array\FindRotateMin.cpp" />
+    <ClCompile Include="array\FindRotateMin2.cpp" />
     <ClCompile Include="array\FourSum.cpp" />
     <ClCompile Include="array\MajorityElement.cpp" />
     <ClCompile Include="array\Merge.cpp" />
@@ -43,6 +45,8 @@
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="array\BinarySearch.h" />
+    <ClInclude Include="array\FindRotateMin.h" />
+    <ClInclude Include="array\FindRotateMin2.h" />
     <ClInclude Include="array\FourSum.h" />
     <ClInclude Include="array\MajorityElement.h" />
     <ClInclude Include="array\Merge.h" />
