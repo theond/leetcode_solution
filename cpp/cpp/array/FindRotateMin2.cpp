@@ -25,6 +25,7 @@ int FindRotateMin2::findMin(int nums[], int length) {
 	return nums[l];
 }
 
+/*
 int main() {
 	FindRotateMin2 findRotateMin;
 	int nums[3] = { 1,3,3 };
@@ -34,3 +35,4 @@ int main() {
 		cout << nums[i] << endl;
 	}
 }
+*/

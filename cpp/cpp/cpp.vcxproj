@@ -26,6 +26,7 @@
     <ClCompile Include="array\MajorityElement.cpp" />
     <ClCompile Include="array\Merge.cpp" />
     <ClCompile Include="array\MoveZeros.cpp" />
+    <ClCompile Include="array\ProductExceptSelf.cpp" />
     <ClCompile Include="array\RemoveDuplicates.cpp" />
     <ClCompile Include="array\RemoveDuplicates2.cpp" />
     <ClCompile Include="array\RemoveElement.cpp" />
@@ -42,6 +43,8 @@
     <ClCompile Include="base_sort\QuickSort.cpp" />
     <ClCompile Include="base_sort\SelectionSort.cpp" />
     <ClCompile Include="base_sort\ShellSort.cpp" />
+    <ClCompile Include="string\CommonPrefix.cpp" />
+    <ClCompile Include="string\LengthOfLongestSubstring.cpp" />
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="array\BinarySearch.h" />
@@ -51,6 +54,7 @@
     <ClInclude Include="array\MajorityElement.h" />
     <ClInclude Include="array\Merge.h" />
     <ClInclude Include="array\MoveZeros.h" />
+    <ClInclude Include="array\ProductExceptSelf.h" />
     <ClInclude Include="array\RemoveDuplicates.h" />
     <ClInclude Include="array\RemoveDuplicates2.h" />
     <ClInclude Include="array\RemoveElement.h" />

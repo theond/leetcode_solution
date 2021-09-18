@@ -84,6 +84,15 @@
     <ClCompile Include="array\FindRotateMin2.cpp">
       <Filter>源文件</Filter>
     </ClCompile>
+    <ClCompile Include="array\ProductExceptSelf.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="string\LengthOfLongestSubstring.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="string\CommonPrefix.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="base_sort\BubbleSort.h">
@@ -153,6 +162,9 @@
       <Filter>头文件</Filter>
     </ClInclude>
     <ClInclude Include="array\FindRotateMin2.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="array\ProductExceptSelf.h">
       <Filter>头文件</Filter>
     </ClInclude>
   </ItemGroup>
