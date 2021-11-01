@@ -87,10 +87,13 @@
     <ClCompile Include="array\ProductExceptSelf.cpp">
       <Filter>源文件</Filter>
     </ClCompile>
-    <ClCompile Include="string\LengthOfLongestSubstring.cpp">
+    <ClCompile Include="string\length_of_longest_sub_string.cpp">
       <Filter>源文件</Filter>
     </ClCompile>
-    <ClCompile Include="string\CommonPrefix.cpp">
+    <ClCompile Include="string\common_prefix.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="string\reverse_vowels.cpp">
       <Filter>源文件</Filter>
     </ClCompile>
   </ItemGroup>
