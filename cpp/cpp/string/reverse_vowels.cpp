@@ -57,9 +57,11 @@ public:
 };
 #endif // !REVERSEVOWELS
 
+/*
 void main() {
 	ReverseVowels rv;
 	string str = "aA";
 	string result = rv.reverseVowels(str);
 	cout << result << endl;
 }
+*/

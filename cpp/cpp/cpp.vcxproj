@@ -46,6 +46,7 @@
     <ClCompile Include="string\common_prefix.cpp" />
     <ClCompile Include="string\length_of_longest_sub_string.cpp" />
     <ClCompile Include="string\reverse_vowels.cpp" />
+    <ClCompile Include="string\string_to_integer.cpp" />
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="array\BinarySearch.h" />
