@@ -54,9 +54,11 @@ public:
 };
 #endif // !STRINGTOINTEGER
 
+/*
 void main() {
 	StringToInteger atoi;
 	string s = "-91283472332";
 	int result = atoi.myAtoI(s);
 	cout << result << endl;
 }
+*/
