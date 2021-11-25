@@ -46,6 +46,7 @@ public:
 };
 */
 
+/*
 void main() {
 	RansomNote note;
 	string r = "aa";
@@ -53,3 +54,4 @@ void main() {
 	bool result = note.canConstruct(r, m);
 	cout << result << endl;
 }
+*/

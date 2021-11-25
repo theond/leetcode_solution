@@ -43,6 +43,7 @@
     <ClCompile Include="base_sort\QuickSort.cpp" />
     <ClCompile Include="base_sort\SelectionSort.cpp" />
     <ClCompile Include="base_sort\ShellSort.cpp" />
+    <ClCompile Include="list\add_two_numbers.cpp" />
     <ClCompile Include="string\common_prefix.cpp" />
     <ClCompile Include="string\length_of_longest_sub_string.cpp" />
     <ClCompile Include="string\ransom_note.cpp" />
