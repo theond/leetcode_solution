@@ -83,6 +83,7 @@ public:
 };
 */
 
+/*
 void main() {
 	AddTwoNumbers add;
 	ListNode t1 = ListNode(9);
@@ -102,3 +103,4 @@ void main() {
 		r1 = r1->next;
 	}
 }
+*/
