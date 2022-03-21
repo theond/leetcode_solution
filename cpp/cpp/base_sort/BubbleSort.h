@@ -8,7 +8,7 @@ private:
 	void swap(int& a, int& b);
 public:
 	BubbleSort();
-	void bubbleSort(int input[], int length);
+	void bubbleSort(int nums[], int length);
 
 };
 #endif // !BUBBLESORT

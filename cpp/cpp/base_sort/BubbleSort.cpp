@@ -4,19 +4,19 @@ using namespace std;
 
 BubbleSort::BubbleSort(){}
 
-void BubbleSort::bubbleSort(int input[], int length) {
+void BubbleSort::bubbleSort(int nums[], int length) {
 	bool swaped = true;
 	for (int i = 0; i < length && swaped; i++) {
 		swaped = false;
 		for (int j = 1; j < length - i; j++) {
-			if (input[j-1] > input[j]) {
-				swap(input[j-1], input[j]);
+			if (nums[j-1] > nums[j]) {
+				swap(nums[j-1], nums[j]);
 				swaped = true;
 			}
 		}
 	}
 	for (int a = 0; a < length; a++){
-		cout << input[a] << endl;
+		cout << nums[a] << endl;
 	}
 	
 }

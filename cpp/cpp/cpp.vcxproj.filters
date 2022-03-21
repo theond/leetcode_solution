@@ -24,6 +24,90 @@
     <ClCompile Include="base_sort\SelectionSort.cpp">
       <Filter>源文件</Filter>
     </ClCompile>
+    <ClCompile Include="base_sort\MergeSort.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="base_sort\QuickSort.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="base_sort\ShellSort.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="array\BinarySearch.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="array\MajorityElement.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="array\RemoveDuplicates.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="array\RemoveDuplicates2.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="array\RemoveElement.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="array\MoveZeros.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="array\RepeatNumber.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="array\Rotate.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="array\SpiralOrder.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="array\TwoSum.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="array\ThreeSum.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="array\FourSum.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="array\ThreeSumSmaller.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="array\ThreeSumClkosest.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="array\Merge.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="array\FindRotateMin.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="array\FindRotateMin2.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="array\ProductExceptSelf.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="string\length_of_longest_sub_string.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="string\common_prefix.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="string\reverse_vowels.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="string\string_to_integer.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="string\ransom_note.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="list\add_two_numbers.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="list\add_two_numbers_t.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="base_sort\BubbleSort.h">
@@ -33,6 +117,69 @@
       <Filter>头文件</Filter>
     </ClInclude>
     <ClInclude Include="base_sort\SelectionSort.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="base_sort\MergeSort.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="base_sort\QuickSort.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="base_sort\ShellSort.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="array\BinarySearch.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="array\MajorityElement.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="array\RemoveDuplicates.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="array\RemoveDuplicates2.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="array\RemoveElement.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="array\MoveZeros.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="array\RepeatNumber.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="array\Rotate.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="array\SpiralOrder.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="array\TwoSum.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="array\ThreeSum.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="array\FourSum.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="array\ThreeSumSmaller.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="array\ThreeSumClkosest.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="array\Merge.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="array\FindRotateMin.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="array\FindRotateMin2.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="array\ProductExceptSelf.h">
       <Filter>头文件</Filter>
     </ClInclude>
   </ItemGroup>

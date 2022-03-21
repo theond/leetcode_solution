@@ -1,4 +1,4 @@
-package basesort;
+package arrays;
 
 public class BinarySearch {
     /*

@@ -6,6 +6,6 @@ private:
 	// void swap(int& a, int& b);
 public:
 	InsertionSort();
-	void insertionSort(int inpurt[], int length);
+	void insertionSort(int nums[], int length);
 };
 #endif // !INSERTIONSORT
