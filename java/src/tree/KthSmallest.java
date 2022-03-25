@@ -1,7 +1,7 @@
 package tree;
 
 public class KthSmallest {
-    /*
+    /* https://leetcode-cn.com/problems/k-th-smallest-in-lexicographical-order/
      * 可以确定上下边界直接完成计数，就不要去遍历计数，1是浪费资源，2是容易出错
      * 对于遍历计数要控制好边界条件
      */

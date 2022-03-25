@@ -5,6 +5,9 @@ import java.util.Set;
 
 public class TwoSumBst {
 
+    /*
+     * https://leetcode-cn.com/problems/two-sum-iv-input-is-a-bst/
+     */
     public class TreeNode{
         int val;
         TreeNode left;
